@@ -41,7 +41,7 @@ Ask questions at the official community forum: [https://forum.quasar-framework.o
 
 ## Contributing
 
-We would be exstatic, if you would to contribute to Quasar in any form (report bugs, write a plugin, fix an issue, write a new feature). Please refer to the [Contributing  Guide](https://github.com/quasarframework/quasar/blob/dev/.github/CONTRIBUTING.md) for more information. 
+We would be greatly appreciative for any contributions made to Quasar in any form (report bugs, write a plugin, fix an issue, write a new feature, etc.). Please refer to the [Contributing  Guide](https://github.com/quasarframework/quasar/blob/dev/.github/CONTRIBUTING.md) for more details. 
 
 ### Issue Reporting Guidelines
 

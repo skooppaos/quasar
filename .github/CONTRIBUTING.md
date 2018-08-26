@@ -1,6 +1,6 @@
 # Quasar Contributing Guide
 
-Hi! I’m really excited that you are interested in contributing to Quasar. Before submitting your contribution though, please make sure to take a moment and read through the following guidelines.
+Hi! We are really excited that you are interested in contributing to Quasar. Before submitting your contribution though, please make sure to take a moment and read through the following guidelines.
 
 - [Code of Conduct](https://github.com/quasarframework/quasar/blob/dev/.github/CODE_OF_CONDUCT.md)
 - [Issue Reporting Guidelines](#issue-reporting-guidelines)
@@ -18,7 +18,7 @@ Hi! I’m really excited that you are interested in contributing to Quasar. Befo
 
 - Try to search for your issue, it may have already been answered or even fixed in the development branch (`dev`).
 
-- Check if the issue is reproducible with the latest stable version of Quasar. If you are using a pre-release, please indicate the specific version you are using.
+- Check if the issue is reproducible with the latest stable version of Quasar. If you are using a pre-release, please indicate the specific version you are using. It is highly suggested to create a [Fiddle](https://jsfiddle.net/rstoenescu/waugrryy/) or [Codepen](https://codepen.io/rstoenescu/pen/KQRZJg) to reproduce the problem.
 
 - It is **required** that you clearly describe the steps necessary to reproduce the issue you are running into. Although we would love to help our users as much as possible, diagnosing issues without clear reproduction steps is extremely time-consuming and simply not sustainable.
 
@@ -54,6 +54,8 @@ Creating publishable content (i.e. Blog Articles, Books, Videos, Tutorials, etc.
 If you have any questions about content contribution, please contact us at the [Quasar Discord chat](http://chat.quasar-framework.org). 
 
 In order to become an official content contributor, all that we ask of you is, before you start creating any content, please sign the [Quasar FLA](https://goo.gl/forms/MhyO37oz7AsUtfdw2), then contact us on [Discord](http://chat.quasar-framework.org).
+
+Any content created outside of these guidelines is considered "enthusiast" and unofficial.
 
 ### Content Publication Process for Medium
 
