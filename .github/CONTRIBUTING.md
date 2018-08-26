@@ -47,6 +47,32 @@ Hi! I’m really excited that you are interested in contributing to Quasar. Befo
   - If you are resolving a special issue, add `(fix: #xxxx[,#xxx])` (#xxxx is the issue id) in your PR title for a better release log, e.g. `fix: update entities encoding/decoding (fix #3899)`.
   - Provide detailed description of the bug in the PR. Live demo preferred.
 
+## Content Contributor Guidelines
+
+Creating publishable content (i.e. Blog Articles, Books, Videos, Tutorials, etc.) officially for Quasar can be greatly beneficial to you, the content creator. As an official content contributor, you get to use the name and Corporate Idendity of Quasar legally, can get your publications checked for technical validity and marketing/ CI validity. And most importantly, you can ride along the wave of Quasar's gaining popularity in an official capacity. Your content will also be promoted and possibly even distributed to the content and social media outlets Quasar uses, like Medium, Steemit, Twitter, et. al. 
+
+If you have any questions about content contribution, please contact us at the [Quasar Discord chat](http://chat.quasar-framework.org). 
+
+In order to become an official content contributor, all that we ask of you is, before you start creating any content, please sign the [Quasar FLA](https://goo.gl/forms/MhyO37oz7AsUtfdw2), then contact us on [Discord](http://chat.quasar-framework.org).
+
+### Content Publication Process for Medium
+
+1. Create a medium.com account 
+2. Notify Denjell or Razvan on Discord to get added as a "staff writer"
+3. Start writing articles 
+4. When article is ready submit it
+5. We review it, then publish it 
+6. The article may be distributed to other blogging sites
+
+### Content We Are Looking For
+1. The Quasar Method (Introductory Articles)
+2. Quasar Under the Hood (Ubernerd Patterns Here)
+3. Quasar in Real Life (Real World Usage)
+4. Development Updates (From the Core Team)
+5. Medium Awesome Quasar (Sponsorship from Patreons)
+
+For any further questions on content contribution, as mentioned, please contact us on [Discord](http://chat.quasar-framework.org).
+
 ## Development Setup
 
 You will need [Node.js](http://nodejs.org) **version 8.9+** along [Yarn](https://yarnpkg.com/) or [NPM](https://docs.npmjs.com/getting-started/installing-node). Read `package.json` and take notice of the scripts you can use.
